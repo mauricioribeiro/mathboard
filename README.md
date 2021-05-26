@@ -1,2 +1,2 @@
-# mathpy
-A fun library to make calculations
+# mathboard
+A fun library to make math operations
